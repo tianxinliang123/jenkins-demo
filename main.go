@@ -9,5 +9,5 @@ import (
 
 func main() {
 	fmt.Println("Hello, Kubernetes！I'm from Jenkins CI！")
-	fmt.Println("BRANCH_txl3:", os.Getenv("branch"))
+	fmt.Println("BRANCH_txl4:", os.Getenv("branch"))
 }
